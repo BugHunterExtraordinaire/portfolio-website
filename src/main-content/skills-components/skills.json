@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "level": 95,
+    "description": ""
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "level": 90,
+    "description": ""
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "level": 80,
+    "description": ""
+  },
+  {
+    "id": 4,
+    "name": "Tailwind",
+    "level": 85,
+    "description": ""
+  },
+  {
+    "id": 5,
+    "name": "React",
+    "level": 70,
+    "description": ""
+  },
+  {
+    "id": 6,
+    "name": "Responsive Web design",
+    "level": 85,
+    "description": ""
+  },
+  {
+    "id": 7,
+    "name": "Git and GitHub",
+    "level": 80,
+    "description": ""
+  }
+]

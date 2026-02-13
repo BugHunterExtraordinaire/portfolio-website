@@ -9,7 +9,7 @@ export default function About() {
         <Description />
         <Socials />
       </div>
-      <img src={PersonalPic} alt='My Picture' className='w-[45%]' />
+      <img src={PersonalPic} alt='My Picture' className='w-[45%] object-cover' />
     </article>
   );
 }
