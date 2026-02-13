@@ -8,6 +8,8 @@
   --main-theme: #FAFAFA;
   --theme-color: #008000;
   --text-color: #353535;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
   background-color: var(--main-theme);
   color: var(--text-color);
 }
