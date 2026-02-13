@@ -7,11 +7,12 @@
   content: '';
   display: block;
   width: 0;
+  height: 1px;
+  background-color: green;
   bottom: 0;
   left: 0;
   transition: 0.2s ease-out;
 }
 .link-animation:hover::after {
   width: 100%;
-  border-bottom: 1px solid green;
 }

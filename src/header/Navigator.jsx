@@ -8,7 +8,7 @@ export default function Navigator() {
         <li className="link-animation"><a href="#about">About</a></li>
         <li className="link-animation"><a href="#skills">Skills</a></li>
         <li className="link-animation"><a href="#projects">Projects</a></li>
-        <li className="link-animation"><a href="#contacts">Contacts</a></li>
+        <li className="link-animation"><a href="#contact">Contact</a></li>
       </ul>
     </nav>
   );
