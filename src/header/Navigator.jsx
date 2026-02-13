@@ -2,7 +2,7 @@ import './Navigator.css'
 
 export default function Navigator() {
   return (
-    <nav className="w-fit">
+    <nav className="w-fit" aria-label='Webpage navigation'>
       <ul className="flex flex-row justify-evenly gap-5 ">
         <li className="link-animation"><a href="#home">Home</a></li>
         <li className="link-animation"><a href="#about">About</a></li>
